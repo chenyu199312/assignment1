@@ -1,0 +1,6 @@
+C:\Users\300789603\Desktop\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\300789603\Desktop\assignment1\bin\Debug\assignment1.exe
+C:\Users\300789603\Desktop\assignment1\bin\Debug\assignment1.pdb
+C:\Users\300789603\Desktop\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+C:\Users\300789603\Desktop\assignment1\obj\Debug\assignment1.exe
+C:\Users\300789603\Desktop\assignment1\obj\Debug\assignment1.pdb
